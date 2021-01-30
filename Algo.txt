@@ -1,0 +1,8 @@
+Algo
+Step 1: Order online
+Step 2: Pay online
+Step 3: Wait for delivery driver
+Step 4: Open door for delivery driver when he arrives to the door
+Step 5: Take the pizza box from him
+Step 6: Tip the driver 
+SteP 7: Enjoy your pizza
